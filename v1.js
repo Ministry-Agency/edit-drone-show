@@ -1,3 +1,4 @@
+<script>
 document.addEventListener("DOMContentLoaded", async function () {
     if (typeof supabase === "undefined") return;
 
@@ -1121,3 +1122,4 @@ document.addEventListener("DOMContentLoaded", async function () {
     
     initPage();
 });
+</script>
